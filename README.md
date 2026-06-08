@@ -1,1 +1,1 @@
-
+The main goal of BabyBite is to help users save time while ensuring that meals match their dietary preferences and requirements. The application allows users to create a profile, set dietary preferences, manage allergies and restrictions, browse personalized meal recommendations, and place food orders through an easy-to-use mobile interface.
