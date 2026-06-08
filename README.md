@@ -1,1 +1,4 @@
-The main goal of BabyBite is to help users save time while ensuring that meals match their dietary preferences and requirements. The application allows users to create a profile, set dietary preferences, manage allergies and restrictions, browse personalized meal recommendations, and place food orders through an easy-to-use mobile interface.
+
+BabyBite
+ The project focuses on creating a personalized meal delivery platform designed to support busy families.
+The main goal of BabyBite is to help users save time while ensuring that meals match their dietary preferences and requirements. The application allows users to create a profile, set dietary preferences, manage allergies and restrictions, browse personalized meal recommendations, and place food orders through an easy-to-use mobile interface.The main goal of BabyBite is to help users save time while ensuring that meals match their dietary preferences and requirements. The application allows users to create a profile, set dietary preferences, manage allergies and restrictions, browse personalized meal recommendations, and place food orders through an easy-to-use mobile interface.
